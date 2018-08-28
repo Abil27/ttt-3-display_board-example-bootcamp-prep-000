@@ -18,3 +18,9 @@ def display_board2
 end
 
 display_board2
+
+def display_board3
+  puts "   |   |   \n-----------   |   |   \n-----------   |   |   "
+  puts row2
+  puts row3
+end
