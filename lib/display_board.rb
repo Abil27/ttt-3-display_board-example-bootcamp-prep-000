@@ -21,6 +21,6 @@ display_board2
 puts "****************"
 
 def display_board3
-  puts "   |   |   \n-----------\n   |   |   \n"
+  puts "   |   |   \n-----------\n   |   |   \n-----------"
 end
 display_board3
