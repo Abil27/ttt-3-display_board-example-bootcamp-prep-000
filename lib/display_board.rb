@@ -16,3 +16,5 @@ def display_board2
   puts row2
   puts row3
 end
+
+display_board2
