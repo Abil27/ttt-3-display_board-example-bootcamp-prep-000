@@ -7,6 +7,7 @@ def display_board
   puts "   |   |   "
 end
 display_board
+=begin
 puts "*******************"
 def display_board2
   row1 = "   |   |   \n-----------"
@@ -24,3 +25,4 @@ def display_board3
   puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
 end
 display_board3
+=end
